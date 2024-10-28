@@ -80,7 +80,7 @@ export const DATA = {
       },
       socialHandle: {
         name: "linktree",
-        url: "https://linktr.ee/AaravRawat",
+        url: "https://bento.me/AaravRawat",
         icon: Icons.email,
         navbar: false
       }
