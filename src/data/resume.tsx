@@ -12,18 +12,11 @@ export const DATA = {
   description:
     "On a journey to becoming a Product Builder. Open to Job/Freelance",
   summary:
-    "I'm a [Dev](/#projects), Who is passionate about [A.I/Web3](/#) & [Startup-Domain](/#). Currently I'm working on [Web Dev](/#skills) & [DevOps](/#skills) with specialization in [Next.js](/#skills) while learning [AI tools](/#skills). Throughout this journey i build various [Freelance/Personal](/#projects) projects gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) and continiously adapting to new [Environment](/skills).",
+    "I'm a [Developer](/#projects), Who is passionate about [Tech](/#projects). Currently I'm working on [Web Dev](/#skills) & [DevOps](/#skills) with specialization in [Next.js](/#skills) while learning [AI tools](/#skills). Throughout this journey i build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills). I have an excellent understanding of [DSA](/#projects), [OOPS](/#skills), and [Problem-Solving](/).I am continiously adapting to new [Environment](/#skills).",
 
   avatarUrl: "/me.jpg",
 
   skills: [
-    "DSA",
-    "OOPs",
-    "STL",
-    "DBMS",
-    "System Design",
-    "C",
-    "C++",
     "JavaScript",
     "TypeScript",
     "ReactJS",
@@ -32,8 +25,6 @@ export const DATA = {
     "NodeJS",
     "HonoJS",
     "TailwindCSS",
-    "Aceternity UI",
-    "Shadcn UI",
     "MongoDB",
     "PostgreSQL",
     "Cloudflare Workers",
@@ -43,7 +34,14 @@ export const DATA = {
     "Prisma",
     "Zod",
     "TurboRepo",
-    "NextAuth"
+    "NextAuth",
+    "DSA",
+    "OOPs",
+    "STL",
+    "DBMS",
+    "System Design",
+    "C",
+    "C++"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
