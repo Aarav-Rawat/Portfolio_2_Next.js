@@ -209,10 +209,7 @@ export const DATA = {
         "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
       technologies: [
         "React.js",
-        'Express.js',
-        "Node.js",
-        "MongoDb Atlas",
-        "Postman",
+        "YouTube API",
         "TailwindCSS",
       ],
       links: [
