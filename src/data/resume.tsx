@@ -147,7 +147,7 @@ export const DATA = {
       dates: "Dec 2024 - Present",
       active: true,
       description:
-        "Created a wallet to send and receive money with number. Add to wallet option. Used turporepo to manage the 2nd backend of bank webhook",
+        "Developed a digital wallet application enabling users to send and receive money using phone numbers, with an Add to Wallet feature for seamless transactions. Integrated TurboRepo to manage the secondary backend handling bank webhooks efficiently. Implemented secure user authentication with NextAuth and utilized AivenDB for scalable and efficient database management.",
       technologies: [
         "Next.js",
         "Docker",
@@ -177,7 +177,7 @@ export const DATA = {
       dates: "Nov 2024",
       active: true,
       description:
-        " Full stack blogging site. Deployed on serveless backend using cloudflare workers which makes it 50-60% faster. Used AivenDB to manage & scale the database",
+        "Developed a full-stack blogging platform deployed on a serverless backend powered by Cloudflare Workers, enhancing performance by 50–60%. Utilized AivenDB for efficient database management and seamless scaling. Features include user account creation, blog posting, and optimized SEO with Next.js for improved discoverability.",
       technologies: [
         "React.js",
         "Hono.js",
@@ -242,7 +242,7 @@ export const DATA = {
       dates: "Aug - Sep 2024",
       active: true,
       description:
-        "Developed a video player where user can see videos and their likes , subscriber & comments. Used youtube api and frontend ui",
+        "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
       technologies: [
         "React.js",
         'Express.js',
@@ -273,7 +273,7 @@ export const DATA = {
       dates: "Oct 2024",
       active: true,
       description:
-        "Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
+        "Developed a UI website for a client focused on the trending Tap to Earn Crypto concept. Leveraged Next.js for SEO optimization to attract users and enhance discoverability. The platform allowed users to explore content, understand the mission, and discover solutions to earn more crypto. Development was paused but will be resumed in the future with plans to further enhance its SEO and features.Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
       technologies: [
         "Next.js",
         "Typescript",
@@ -303,7 +303,7 @@ export const DATA = {
       dates: "Dec 2024",
       active: true,
       description:
-        " Created a portfolio for a amazon seller. Used next for better seo UI library friendly. Designed with a user-friendly interface for easy navigation and quick access to his work and accomplishments.",
+        " Created a professional portfolio for an Amazon seller, leveraging Next.js for enhanced SEO and optimized performance. Designed a user-friendly interface to ensure seamless navigation and provide quick access to the seller's work and accomplishments, showcasing their expertise effectively.",
       technologies: [
         "Next.js",
         "Aceternity UI",
