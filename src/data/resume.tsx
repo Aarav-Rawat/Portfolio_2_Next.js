@@ -223,16 +223,16 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://medium-aarav.vercel.app/",
+          href: "https://verzatile.onrender.com/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/Aarav-Rawat/Medium",
+          href: "https://github.com/Aarav-Rawat/E-com_MERN",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/medium.png",
+      image: "/verzatile.png",
       video: "",
     },
 
