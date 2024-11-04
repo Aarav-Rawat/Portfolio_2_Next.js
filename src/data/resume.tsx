@@ -205,6 +205,38 @@ export const DATA = {
     },
 
     {
+      title: "Verzatile",
+      href: "https://verzatile.onrender.com/",
+      dates: "Oct - Sep 2024",
+      active: true,
+      description:
+        "A full-stack shopping platform with comprehensive user and seller features. Users can register, log in, and log out securely, Implemented authentication and authorization mechanisms. Key functionalities include adding products to the cart, placing orders, viewing order history, and editing personal information. Additionally, users can opt to become sellers, enabling them to list and sell their products on the platform. The application ensures a seamless shopping experience with a focus on security and user convenience.",
+      technologies: [
+        "React.js",
+        'Express.js',
+        "Node.js",
+        "MongoDb Atlas",
+        "Postman",
+
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://medium-aarav.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/Medium",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/medium.png",
+      video: "",
+    },
+
+    {
       title: "Video Player",
       href: "https://verzatile.onrender.com/",
       dates: "Aug - Sep 2024",
