@@ -12,7 +12,7 @@ export const DATA = {
   description:
     "On a journey to becoming a Product Builder. Open to Freelance/Internship",
   summary:
-    "I'm a [Computer science](/#education) college student &  [Business student](/#education) from school, Who is passionate about [A.I/Web3](/#) & [Startup-Domain](/#). In this journey i build [Freelance/Personal](/#projects) projects. Currently I'm Mastering [Web Dev](/#skills) • Learning [DevOps](/#skills)",
+    "I'm a [Computer science](/#education) college student &  [Business student](/#education) from school, Who is passionate about [A.I/Web3](/#) & [Startup-Domain](/#). In this journey i build [Freelance/Personal](/#projects) projects. Currently I'm Mastering [Web Dev](/#skills) & Learning [DevOps](/#skills).",
 
   avatarUrl: "/me.jpg",
 
@@ -172,66 +172,6 @@ export const DATA = {
     },
 
     {
-      title: "DailyCombos - Freelance",
-      href: "https://medium-aarav.vercel.app/",
-      dates: "Oct 2024",
-      active: true,
-      description:
-        "Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "Aceternity UI",
-        "Shadcn UI",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://dailycombos.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/HamsterCard",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/dailyCombos.png",
-      video: "",
-    },
-
-    {
-      title: "Client Portfolio - Freelance",
-      href: "https://kirmada.vercel.app/",
-      dates: "Dec 2024",
-      active: true,
-      description:
-        " Created a portfolio for a amazon seller. Used next for better seo UI library friendly. Designed with a user-friendly interface for easy navigation and quick access to his work and accomplishments.",
-      technologies: [
-        "Next.js",
-        "Aceternity UI",
-        "Shadcn UI",
-        "Typescript",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://kirmada.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/kirmada.png",
-      video: "",
-    },
-
-    {
       title: "Medium",
       href: "https://medium-aarav.vercel.app/",
       dates: "Nov 2024",
@@ -294,6 +234,68 @@ export const DATA = {
       image: "/videoplayer.png",
       video: "",
     },
+
+    {
+      title: "DailyCombos - Freelance",
+      href: "https://medium-aarav.vercel.app/",
+      dates: "Oct 2024",
+      active: true,
+      description:
+        "Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "Aceternity UI",
+        "Shadcn UI",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://dailycombos.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/HamsterCard",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/dailyCombos.png",
+      video: "",
+    },
+
+    {
+      title: "Client Portfolio - Freelance",
+      href: "https://kirmada.vercel.app/",
+      dates: "Dec 2024",
+      active: true,
+      description:
+        " Created a portfolio for a amazon seller. Used next for better seo UI library friendly. Designed with a user-friendly interface for easy navigation and quick access to his work and accomplishments.",
+      technologies: [
+        "Next.js",
+        "Aceternity UI",
+        "Shadcn UI",
+        "Typescript",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://kirmada.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/kirmada.png",
+      video: "",
+    },
+
+  
 
   ],
 
