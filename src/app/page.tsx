@@ -133,9 +133,7 @@ export default function Page() {
             ))}
           </div>
         </div>
-      </section>
-
-      
+      </section>   
 
       <section id="education">
         <div className="flex min-h-0 flex-col gap-y-3">

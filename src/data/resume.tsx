@@ -36,9 +36,6 @@ export const DATA = {
     "Shadcn UI",
     "MongoDB",
     "PostgreSQL",
-    "NeonDB",
-    "AivenDB",
-    "AWS EC2 S3",
     "Cloudflare Workers",
     "Docker",
     "Git/GitHub",
@@ -111,18 +108,10 @@ export const DATA = {
     {
       school: "100xDevs",
       href: "",
-      degree: "WebDev, DevOps & Web3.0",
+      degree: "WebDev & DevOps",
       logoUrl: "/course.png",
       start: "2024",
       end: "Present",
-    },
-    {
-      school: "MySirG",
-      href: "",
-      degree: "C, C++ & DSA",
-      logoUrl: "/sirg.png",
-      start: "2023",
-      end: "2024",
     },
     {
       school: "Indira Gandhi University",
@@ -132,6 +121,15 @@ export const DATA = {
       start: "",
       end: "",
     },
+    {
+      school: "MySirG",
+      href: "",
+      degree: "C, C++ & DSA",
+      logoUrl: "/sirg.png",
+      start: "2023",
+      end: "2024",
+    },
+    
     {
       school: "School",
       href: "",
@@ -149,7 +147,7 @@ export const DATA = {
       dates: "Dec 2024 - Present",
       active: true,
       description:
-        "Created a wallet to send and receive money with number. Add to wallet option. Used turporepo to manage the 2nd backenf of ban webhook",
+        "Created a wallet to send and receive money with number. Add to wallet option. Used turporepo to manage the 2nd backend of bank webhook",
       technologies: [
         "Next.js",
         "Docker",
