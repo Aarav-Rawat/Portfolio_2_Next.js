@@ -266,39 +266,6 @@ export const DATA = {
       video: "",
     },
 
-
-
-    {
-      title: "Verzatile",
-      href: "https://verzatile.onrender.com/",
-      dates: "Aug - Sep 2024",
-      active: true,
-      description:
-        "Developed a full-stack website that enables users to buy and sell products. Implementing features like user authentication , authorization, admin panel , user profile, Become Seller Option. Both users and sellers can edit their information, view their orders, and manage cart items",
-      technologies: [
-        "React.js",
-        'Express.js',
-        "Node.js",
-        "MongoDb Atlas",
-        "Postman",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://verzatile.onrender.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/E-com_MERN",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/verzatile.png",
-      video: "",
-    },
-
     {
       title: "Video Player",
       href: "https://verzatile.onrender.com/",
