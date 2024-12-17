@@ -125,20 +125,20 @@ export const DATA = {
       end: "2024",
     },
     {
-      school: "Indra Gandhi University",
+      school: "Indira Gandhi University",
       href: "",
       degree: "Computer Science",
       logoUrl: "/college.jpeg",
-      start: "2023",
-      end: "2026",
+      start: "",
+      end: "",
     },
     {
       school: "School",
       href: "",
       degree: "Finance & Business Studies",
       logoUrl: "/school.jpg",
-      start: "2021",
-      end: "2023",
+      start: "",
+      end: "",
     }
   ],
   projects: [
@@ -274,7 +274,7 @@ export const DATA = {
       dates: "Aug - Sep 2024",
       active: true,
       description:
-        "",
+        "Developed a full-stack website that enables users to buy and sell products. Implementing features like user authentication , authorization, admin panel , user profile, Become Seller Option. Both users and sellers can edit their information, view their orders, and manage cart items",
       technologies: [
         "React.js",
         'Express.js',
@@ -296,6 +296,37 @@ export const DATA = {
         },
       ],
       image: "/verzatile.png",
+      video: "",
+    },
+
+    {
+      title: "Video Player",
+      href: "https://verzatile.onrender.com/",
+      dates: "Aug - Sep 2024",
+      active: true,
+      description:
+        "Developed a video player where user can see videos and their likes , subscriber & comments. Used youtube api and frontend ui",
+      technologies: [
+        "React.js",
+        'Express.js',
+        "Node.js",
+        "MongoDb Atlas",
+        "Postman",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://fakevideoplayer.netlify.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/youtube_UI_react",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/videoplayer.png",
       video: "",
     },
 
