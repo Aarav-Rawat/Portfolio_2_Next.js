@@ -239,7 +239,7 @@ export const DATA = {
       dates: "Nov 2024",
       active: true,
       description:
-        "",
+        " Full stack blogging site. Deployed on serveless backend using cloudflare workers which makes it 50-60% faster. Used AivenDB to manage & scale the database",
       technologies: [
         "React.js",
         "Hono.js",
