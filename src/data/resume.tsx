@@ -209,7 +209,7 @@ export const DATA = {
       dates: "Dec 2024",
       active: true,
       description:
-        "",
+        " Created a portfolio for a amazon seller. Used next for better seo UI library friendly. Designed with a user-friendly interface for easy navigation and quick access to his work and accomplishments.",
       technologies: [
         "Next.js",
         "Aceternity UI",
