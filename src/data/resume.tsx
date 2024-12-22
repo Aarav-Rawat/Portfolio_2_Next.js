@@ -179,7 +179,7 @@ export const DATA = {
       dates: "Oct 2024",
       active: true,
       description:
-        "",
+        "Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
       technologies: [
         "Next.js",
         "Typescript",
