@@ -76,7 +76,7 @@ export const DATA = {
 
         navbar: true,
       },
-     
+
       Email: {
         name: "Send Email",
         url: "#mailto:aaravrawat22505@gmail.com",
@@ -149,7 +149,7 @@ export const DATA = {
       dates: "Dec 2024 - Present",
       active: true,
       description:
-        "",
+        "Created a wallet to send and receive money with number. Add to wallet option. Used turporepo to manage the 2nd backenf of ban webhook",
       technologies: [
         "Next.js",
         "Docker",
@@ -232,7 +232,7 @@ export const DATA = {
       image: "/kirmada.png",
       video: "",
     },
-    
+
     {
       title: "Medium",
       href: "https://medium-aarav.vercel.app/",
@@ -266,7 +266,7 @@ export const DATA = {
       video: "",
     },
 
-   
+
 
     {
       title: "Verzatile",
@@ -298,7 +298,7 @@ export const DATA = {
       image: "/verzatile.png",
       video: "",
     },
-    
+
   ],
 
   hackathons: [
