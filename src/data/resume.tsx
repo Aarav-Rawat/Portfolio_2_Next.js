@@ -277,11 +277,10 @@ export const DATA = {
         "",
       technologies: [
         "React.js",
-        "Hono.js",
-        "CloudFlare Workers",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        'Express.js',
+        "Node.js",
+        "MongoDb Atlas",
+        "Postman",
         "TailwindCSS",
       ],
       links: [
