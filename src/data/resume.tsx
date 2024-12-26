@@ -244,6 +244,7 @@ export const DATA = {
         "React.js",
         "Hono.js",
         "CloudFlare Workers",
+        "AivenDB",
         "Typescript",
         "PostgreSQL",
         "Prisma",
