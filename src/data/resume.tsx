@@ -184,6 +184,7 @@ export const DATA = {
         "Next.js",
         "Typescript",
         "Aceternity UI",
+        "Shadcn UI",
         "TailwindCSS",
       ],
       links: [
@@ -210,12 +211,10 @@ export const DATA = {
       description:
         "",
       technologies: [
-        "React.js",
-        "Hono.js",
-        "CloudFlare Workers",
+        "Next.js",
+        "Aceternity UI",
+        "Shadcn UI",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
         "TailwindCSS",
       ],
       links: [
