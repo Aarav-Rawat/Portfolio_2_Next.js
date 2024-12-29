@@ -3,14 +3,14 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Aarav",
-  initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  initials: "AR",
+  url: "",
+  location: "Dilli, India",
+  locationLink: "https://www.google.com/maps/place/NewDelhi",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "On the journey to becoming a Product Builder.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "I'm a [Computer science & Bussines student](/#education), Who is passionate about [Web3 & Starup-Domain](/#). In this journey i build [Freelance projects & Products](/#projects). Currently i'm [Mastering Web Dev • Learning DevOps • Passionate for Web3](/#skills)",
   avatarUrl: "/me.png",
   skills: [
     "React",
