@@ -4,14 +4,14 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Aarav",
   initials: "AR",
-  url: "",
-  location: "Dilli, India",
+  url: "https://github.com/Aarav-Rawat",
+  location: "Dill, India",
   locationLink: "https://www.google.com/maps/place/NewDelhi",
   description:
-    "On the journey to becoming a Product Builder.",
+    "On the journey to becoming a Product Builder.Open for Internship/Freelance",
   summary:
     "I'm a [Computer science & Bussines student](/#education), Who is passionate about [Web3 & Starup-Domain](/#). In this journey i build [Freelance projects & Products](/#projects). Currently i'm [Mastering Web Dev • Learning DevOps • Passionate for Web3](/#skills)",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpg",
   skills: [
     "React",
     "Next.js",
