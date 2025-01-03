@@ -84,7 +84,10 @@ export const DATA = {
         navbar: true,
       },
       socialHandle: {
-        url: "https://linktr.ee/AaravRawat"
+        name: "linktree",
+        url: "https://linktr.ee/AaravRawat",
+        icon: Icons.email,
+        navbar: false
       }
     },
   },
