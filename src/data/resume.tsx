@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { HomeIcon } from "lucide-react";
 
 export const DATA = {
 
@@ -47,7 +47,6 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "aaravrawat22505@gmail.com",
@@ -111,7 +110,7 @@ export const DATA = {
       end: "",
     },
     {
-      school: "CRSPS",
+      school: "School",
       href: "",
       degree: "Finance & Business Studies",
       logoUrl: "",
@@ -152,7 +151,7 @@ export const DATA = {
     {
       title: "DailyCombos - Freelance",
       href: "https://medium-aarav.vercel.app/",
-      dates: "",
+      dates: "Oct 2024",
       active: true,
       description:
         "",
@@ -168,12 +167,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://medium-aarav.vercel.app/",
+          href: "https://dailycombos.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/Aarav-Rawat/Medium",
+          href: "https://github.com/Aarav-Rawat/HamsterCard",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -184,7 +183,7 @@ export const DATA = {
     {
       title: "Medium",
       href: "https://medium-aarav.vercel.app/",
-      dates: "Nov 2024 - Dec 2024",
+      dates: "Nov 2024",
       active: true,
       description:
         "",
@@ -215,8 +214,8 @@ export const DATA = {
 
     {
       title: "Client Portfolio - Freelance",
-      href: "https://medium-aarav.vercel.app/",
-      dates: "",
+      href: "https://kirmada.vercel.app/",
+      dates: "Dec 2024",
       active: true,
       description:
         "",
@@ -232,12 +231,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://medium-aarav.vercel.app/",
+          href: "https://kirmada.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/Aarav-Rawat/Medium",
+          href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
           icon: <Icons.github className="size-3" />,
         },
       ],
