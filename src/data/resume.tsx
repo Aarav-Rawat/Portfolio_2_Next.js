@@ -19,6 +19,8 @@ export const DATA = {
     "DSA",
     "OOPs",
     "STL",
+    "DBMS",
+    "System Design",
     "C",
     "C++",
     "JavaScript",
@@ -52,10 +54,10 @@ export const DATA = {
     email: "aaravrawat22505@gmail.com",
     tel: "+91 8076408543",
     social: {
-      GitHub: {
-        name: "GitHub",
-        url: "https://github.com/Aarav-Rawat",
-        icon: Icons.github,
+      X: {
+        name: "X",
+        url: "https://x.com/TheAaravRawat",
+        icon: Icons.x,
 
         navbar: true,
       },
@@ -66,14 +68,15 @@ export const DATA = {
 
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "https://x.com/TheAaravRawat",
-        icon: Icons.x,
+      GitHub: {
+        name: "GitHub",
+        url: "https://github.com/Aarav-Rawat",
+        icon: Icons.github,
 
         navbar: true,
       },
-      email: {
+     
+      Email: {
         name: "Send Email",
         url: "#mailto:aaravrawat22505@gmail.com",
         icon: Icons.email,
@@ -129,11 +132,13 @@ export const DATA = {
         "",
       technologies: [
         "Next.js",
-        "Typescript",
         "Docker",
-        'Express.js',
         "PostgreSQL",
+        "TurboRepo",
+        "MonoRepo",
+        'Express.js',
         "Prisma",
+        "Typescript",
         "TailwindCSS",
       ],
       links: [
@@ -237,6 +242,38 @@ export const DATA = {
         {
           type: "Source",
           href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+
+    {
+      title: "Verzatile",
+      href: "https://verzatile.onrender.com/",
+      dates: "Aug - Sep 2024",
+      active: true,
+      description:
+        "",
+      technologies: [
+        "React.js",
+        "Hono.js",
+        "CloudFlare Workers",
+        "Typescript",
+        "PostgreSQL",
+        "Prisma",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://verzatile.onrender.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/E-com_MERN",
           icon: <Icons.github className="size-3" />,
         },
       ],
