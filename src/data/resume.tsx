@@ -12,7 +12,7 @@ export const DATA = {
   description:
     "On a journey to becoming a Product Builder.Open to Internship/Freelance",
   summary:
-    "I'm a [Computer science](/#education) & [Bussines student](/#education), Who is passionate about [Web3](/#) & [Starup-Domain](/#). In this journey i build [Freelance projects](/#projects). Currently i'm Mastering [Web Dev](/#skills) • Learning [DevOps](/#skills) • Passionate for [Web3](/#skills)",
+    "I'm a pre final-year [Computer science](/#education) college student &  [Bussines student](/#education) from school, Who is passionate about [Web3](/#) & [Starup-Domain](/#). In this journey i build [Freelance projects](/#projects). Currently i'm Mastering [Web Dev](/#skills) • Learning [DevOps](/#skills) • Passionate for [Web3](/#skills)",
 
   avatarUrl: "/me.jpg",
 
@@ -100,7 +100,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Frontend Engineer",
-      logoUrl: "",
+      logoUrl: "/freelance.png",
       start: "2024",
       end: "Present",
       description:
@@ -112,17 +112,17 @@ export const DATA = {
       school: "Indra Gandhi University",
       href: "",
       degree: "Computer Science",
-      logoUrl: "",
-      start: "",
-      end: "",
+      logoUrl: "/college.jpeg",
+      start: "2023",
+      end: "2026",
     },
     {
       school: "School",
       href: "",
       degree: "Finance & Business Studies",
-      logoUrl: "",
-      start: "",
-      end: "",
+      logoUrl: "/school.jpg",
+      start: "2021",
+      end: "2023",
     }
   ],
   projects: [
