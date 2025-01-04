@@ -1,6 +1,7 @@
 import { Icons } from "@/components/icons";
 import { HomeIcon } from "lucide-react";
 
+
 export const DATA = {
 
   name: "Aarav",
@@ -11,7 +12,7 @@ export const DATA = {
   description:
     "On a journey to becoming a Product Builder.Open to Internship/Freelance",
   summary:
-    "I'm a [Computer science & Bussines student](/#education), Who is passionate about [Web3 & Starup-Domain](/#). In this journey i build [Freelance projects & Products](/#projects). Currently i'm [Mastering Web Dev • Learning DevOps • Passionate for Web3](/#skills)",
+    "I'm a [Computer science](/#education) & [Bussines student](/#education), Who is passionate about [Web3](/#) & [Starup-Domain](/#). In this journey i build [Freelance projects](/#projects). Currently i'm Mastering [Web Dev](/#skills) • Learning [DevOps](/#skills) • Passionate for [Web3](/#skills)",
 
   avatarUrl: "/me.jpg",
 
@@ -127,7 +128,7 @@ export const DATA = {
   projects: [
 
     {
-      title: "Paytm",
+      title: "AssPay",
       href: "https://github.com/Aarav-Rawat/Paytm",
       dates: "Dec 2024 - Present",
       active: true,
@@ -151,7 +152,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/asspay.png",
       video:
         "",
     },
@@ -184,7 +185,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/dailyCombos.png",
       video: "",
     },
 
@@ -216,7 +217,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/medium.png",
       video: "",
     },
 
@@ -248,7 +249,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/kirmada.png",
       video: "",
     },
 
@@ -280,7 +281,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/verzatile.png",
       video: "",
     },
     
