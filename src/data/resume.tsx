@@ -190,6 +190,38 @@ export const DATA = {
     },
 
     {
+      title: "Client Portfolio - Freelance",
+      href: "https://kirmada.vercel.app/",
+      dates: "Dec 2024",
+      active: true,
+      description:
+        "",
+      technologies: [
+        "React.js",
+        "Hono.js",
+        "CloudFlare Workers",
+        "Typescript",
+        "PostgreSQL",
+        "Prisma",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://kirmada.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/kirmada.png",
+      video: "",
+    },
+    
+    {
       title: "Medium",
       href: "https://medium-aarav.vercel.app/",
       dates: "Nov 2024",
@@ -221,37 +253,7 @@ export const DATA = {
       video: "",
     },
 
-    {
-      title: "Client Portfolio - Freelance",
-      href: "https://kirmada.vercel.app/",
-      dates: "Dec 2024",
-      active: true,
-      description:
-        "",
-      technologies: [
-        "React.js",
-        "Hono.js",
-        "CloudFlare Workers",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://kirmada.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/kirmada.png",
-      video: "",
-    },
+   
 
     {
       title: "Verzatile",
