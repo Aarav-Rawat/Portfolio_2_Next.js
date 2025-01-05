@@ -95,12 +95,12 @@ export const DATA = {
 
   work: [
     {
-      company: "Freelance",
+      company: "Freelancer",
       href: "/#projects",
       badges: [],
       location: "Remote",
       title: "Frontend Engineer",
-      logoUrl: "/freelance.png",
+      logoUrl: "/free.webp",
       start: "2024",
       end: "Present",
       description:
@@ -108,6 +108,14 @@ export const DATA = {
     },
   ],
   education: [
+    {
+      school: "100xDevs",
+      href: "",
+      degree: "WebDev, DevOps and Web3.0",
+      logoUrl: "/course.png",
+      start: "2024",
+      end: "Present",
+    },
     {
       school: "Indra Gandhi University",
       href: "",
