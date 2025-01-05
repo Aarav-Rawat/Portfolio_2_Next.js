@@ -111,10 +111,18 @@ export const DATA = {
     {
       school: "100xDevs",
       href: "",
-      degree: "WebDev, DevOps and Web3.0",
+      degree: "WebDev, DevOps & Web3.0",
       logoUrl: "/course.png",
       start: "2024",
       end: "Present",
+    },
+    {
+      school: "MySirG",
+      href: "",
+      degree: "C, C++ & DSA",
+      logoUrl: "/sirg.png",
+      start: "2023",
+      end: "2024",
     },
     {
       school: "Indra Gandhi University",
