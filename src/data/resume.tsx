@@ -144,7 +144,7 @@ export const DATA = {
   projects: [
 
     {
-      title: "AssPay",
+      title: "Wallet",
       href: "https://github.com/Aarav-Rawat/Paytm",
       dates: "Dec 2024 - Present",
       active: true,
@@ -153,9 +153,9 @@ export const DATA = {
       technologies: [
         "Next.js",
         "Docker",
+        "CI/CD - Github Actions",
         "PostgreSQL",
         "TurboRepo",
-        "MonoRepo",
         'Express.js',
         "Prisma",
         "Typescript",
