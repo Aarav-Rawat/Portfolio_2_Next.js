@@ -181,12 +181,9 @@ export const DATA = {
       description:
         "",
       technologies: [
-        "React.js",
-        "Hono.js",
-        "CloudFlare Workers",
+        "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "Aceternity UI",
         "TailwindCSS",
       ],
       links: [
