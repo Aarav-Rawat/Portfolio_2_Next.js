@@ -10,7 +10,7 @@ export const DATA = {
   location: "Dill, India",
   locationLink: "https://www.google.com/maps/place/NewDelhi",
   description:
-    "On a journey to becoming a Product Builder.Open to Internship/Freelance",
+    "On a journey to becoming a Product Builder. Open to Freelance/Internship",
   summary:
     "I'm a [Computer science](/#education) college student &  [Business student](/#education) from school, Who is passionate about [A.I/Web3/](/#) & [Startup-Domain](/#). In this journey i build [Freelance projects](/#projects). Currently i'm Mastering [Web Dev](/#skills) • Learning [DevOps](/#skills))",
 
