@@ -12,7 +12,7 @@ export const DATA = {
   description:
     "On a journey to becoming a Product Builder.Open to Internship/Freelance",
   summary:
-    "I'm a pre final-year [Computer science](/#education) college student &  [Business student](/#education) from school, Who is passionate about [Web3](/#) & [Startup-Domain](/#). In this journey i build [Freelance projects](/#projects). Currently i'm Mastering [Web Dev](/#skills) • Learning [DevOps](/#skills) • Passionate for [Web3](/#skills)",
+    "I'm a [Computer science](/#education) college student &  [Business student](/#education) from school, Who is passionate about [A.I/Web3/](/#) & [Startup-Domain](/#). In this journey i build [Freelance projects](/#projects). Currently i'm Mastering [Web Dev](/#skills) • Learning [DevOps](/#skills))",
 
   avatarUrl: "/me.jpg",
 
