@@ -97,7 +97,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Frontend Engineer",
-      logoUrl: "/free.webp",
+      logoUrl: "/free.png",
       start: "2024",
       end: "Present",
       description:
@@ -172,6 +172,67 @@ export const DATA = {
     },
 
     {
+      title: "DailyCombos - Freelance",
+      href: "https://medium-aarav.vercel.app/",
+      dates: "Oct 2024",
+      active: true,
+      description:
+        "Developed a UI website for a client focused on the trending Tap to Earn Crypto concept. Leveraged Next.js for SEO optimization to attract users and enhance discoverability. The platform allowed users to explore content, understand the mission, and discover solutions to earn more crypto. Development was paused but will be resumed in the future with plans to further enhance its SEO and features.Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "Aceternity UI",
+        "Shadcn UI",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://dailycombos.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/HamsterCard",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/dailyCombos.png",
+      video: "",
+    },
+
+    {
+      title: "Video Player",
+      href: "https://verzatile.onrender.com/",
+      dates: "April 2024",
+      active: true,
+      description:
+        "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
+      technologies: [
+        "React.js",
+        'Express.js',
+        "Node.js",
+        "MongoDb Atlas",
+        "Postman",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://fakevideoplayer.netlify.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/youtube_UI_react",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/videoplayer.png",
+      video: "",
+    },
+
+    {
       title: "Medium",
       href: "https://medium-aarav.vercel.app/",
       dates: "Nov 2024",
@@ -203,6 +264,8 @@ export const DATA = {
       image: "/medium.png",
       video: "",
     },
+
+   
 
     {
       title: "Verzatile",
@@ -236,96 +299,39 @@ export const DATA = {
       video: "",
     },
 
-    {
-      title: "Video Player",
-      href: "https://verzatile.onrender.com/",
-      dates: "Aug - Sep 2024",
-      active: true,
-      description:
-        "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
-      technologies: [
-        "React.js",
-        'Express.js',
-        "Node.js",
-        "MongoDb Atlas",
-        "Postman",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://fakevideoplayer.netlify.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/youtube_UI_react",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/videoplayer.png",
-      video: "",
-    },
+  
 
-    {
-      title: "DailyCombos - Freelance",
-      href: "https://medium-aarav.vercel.app/",
-      dates: "Oct 2024",
-      active: true,
-      description:
-        "Developed a UI website for a client focused on the trending Tap to Earn Crypto concept. Leveraged Next.js for SEO optimization to attract users and enhance discoverability. The platform allowed users to explore content, understand the mission, and discover solutions to earn more crypto. Development was paused but will be resumed in the future with plans to further enhance its SEO and features.Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "Aceternity UI",
-        "Shadcn UI",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://dailycombos.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/HamsterCard",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/dailyCombos.png",
-      video: "",
-    },
+   
 
-    {
-      title: "Client Portfolio - Freelance",
-      href: "https://kirmada.vercel.app/",
-      dates: "Dec 2024",
-      active: true,
-      description:
-        " Created a professional portfolio for an Amazon seller, leveraging Next.js for enhanced SEO and optimized performance. Designed a user-friendly interface to ensure seamless navigation and provide quick access to the seller's work and accomplishments, showcasing their expertise effectively.",
-      technologies: [
-        "Next.js",
-        "Aceternity UI",
-        "Shadcn UI",
-        "Typescript",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://kirmada.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/kirmada.png",
-      video: "",
-    },
+    // {
+    //   title: "Client Portfolio - Freelance",
+    //   href: "https://kirmada.vercel.app/",
+    //   dates: "Dec 2024",
+    //   active: true,
+    //   description:
+    //     " Created a professional portfolio for an Amazon seller, leveraging Next.js for enhanced SEO and optimized performance. Designed a user-friendly interface to ensure seamless navigation and provide quick access to the seller's work and accomplishments, showcasing their expertise effectively.",
+    //   technologies: [
+    //     "Next.js",
+    //     "Aceternity UI",
+    //     "Shadcn UI",
+    //     "Typescript",
+    //     "TailwindCSS",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://kirmada.vercel.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    //   image: "/kirmada.png",
+    //   video: "",
+    // },
 
   
 
