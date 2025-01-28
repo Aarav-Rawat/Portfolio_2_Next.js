@@ -10,9 +10,9 @@ export const DATA = {
   location: "Dill, India",
   locationLink: "https://www.google.com/maps/place/NewDelhi",
   description:
-    "On a journey to becoming a Product Builder. Open to Freelance/Internship",
+    "On a journey to becoming a Product Builder. Open to Job/Freelance",
   summary:
-    "I'm a [Computer science](/#education) college student &  [Business student](/#education) from school, Who is passionate about [A.I/Web3](/#) & [Startup-Domain](/#). Currently I'm Mastering [Web Dev](/#skills) with specialization in [Next.js](/#skills) while learning [DevOps](/#skills). Throughout this journey i build various [Freelance/Personal](/#projects) projects gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) and continiously adapting to new [Environment](/skills).",
+    "I'm a [Dev](/#projects), Who is passionate about [A.I/Web3](/#) & [Startup-Domain](/#). Currently I'm working on [Web Dev](/#skills) & [DevOps](/#skills) with specialization in [Next.js](/#skills) while learning [AI tools](/#skills). Throughout this journey i build various [Freelance/Personal](/#projects) projects gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) and continiously adapting to new [Environment](/skills).",
 
   avatarUrl: "/me.jpg",
 
@@ -52,13 +52,6 @@ export const DATA = {
     email: "aaravrawat22505@gmail.com",
     tel: "+91 8076408543",
     social: {
-      X: {
-        name: "X",
-        url: "https://x.com/TheAaravRawat",
-        icon: Icons.x,
-
-        navbar: true,
-      },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/aaravrawat/",
@@ -73,7 +66,13 @@ export const DATA = {
 
         navbar: true,
       },
+      X: {
+        name: "X",
+        url: "https://x.com/TheAaravRawat",
+        icon: Icons.x,
 
+        navbar: true,
+      },
       Email: {
         name: "Send Email",
         url: "#mailto:aaravrawat22505@gmail.com",
