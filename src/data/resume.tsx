@@ -261,71 +261,69 @@ export const DATA = {
 
    
 
-    {
-      title: "Verzatile",
-      href: "https://verzatile.onrender.com/",
-      dates: "Oct - Sep 2024",
-      active: true,
-      description:
-        "A full-stack shopping platform with comprehensive user and seller features. Users can register, log in, and log out securely, Implemented authentication and authorization mechanisms. Key functionalities include adding products to the cart, placing orders, viewing order history, and editing personal information. Additionally, users can opt to become sellers, enabling them to list and sell their products on the platform. The application ensures a seamless shopping experience with a focus on security and user convenience.",
-      technologies: [
-        "React.js",
-        'Express.js',
-        "Node.js",
-        "MongoDb Atlas",
-        "Postman",
-
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://verzatile.onrender.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/E-com_MERN",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/verzatile.png",
-      video: "",
-    },
-
-  
-
-   
-
     // {
-    //   title: "Client Portfolio - Freelance",
-    //   href: "https://kirmada.vercel.app/",
-    //   dates: "Dec 2024",
+    //   title: "Verzatile",
+    //   href: "https://verzatile.onrender.com/",
+    //   dates: "Oct - Sep 2024",
     //   active: true,
     //   description:
-    //     " Created a professional portfolio for an Amazon seller, leveraging Next.js for enhanced SEO and optimized performance. Designed a user-friendly interface to ensure seamless navigation and provide quick access to the seller's work and accomplishments, showcasing their expertise effectively.",
+    //     "A full-stack shopping platform with comprehensive user and seller features. Users can register, log in, and log out securely, Implemented authentication and authorization mechanisms. Key functionalities include adding products to the cart, placing orders, viewing order history, and editing personal information. Additionally, users can opt to become sellers, enabling them to list and sell their products on the platform. The application ensures a seamless shopping experience with a focus on security and user convenience.",
     //   technologies: [
-    //     "Next.js",
-    //     "Aceternity UI",
-    //     "Shadcn UI",
-    //     "Typescript",
+    //     "React.js",
+    //     'Express.js',
+    //     "Node.js",
+    //     "MongoDb Atlas",
+    //     "Postman",
+
     //     "TailwindCSS",
     //   ],
     //   links: [
     //     {
     //       type: "Website",
-    //       href: "https://kirmada.vercel.app/",
+    //       href: "https://verzatile.onrender.com/",
     //       icon: <Icons.globe className="size-3" />,
     //     },
     //     {
     //       type: "Source",
-    //       href: "https://github.com/Aarav-Rawat/Naveen_Portfolio",
+    //       href: "https://github.com/Aarav-Rawat/E-com_MERN",
     //       icon: <Icons.github className="size-3" />,
     //     },
     //   ],
-    //   image: "/kirmada.png",
+    //   image: "/verzatile.png",
     //   video: "",
     // },
+
+  
+
+   
+
+    {
+      title: "Sundown Studio",
+      href: "https://studiossundown.vercel.app/",
+      dates: "Dec 2024",
+      active: true,
+      description:
+        "I have created a premium UI website using only HTML, CSS, and JavaScript. The design focuses on a modern, sleek aesthetic with responsive layouts and intuitive user experience elements",
+      technologies: [
+       "HTML",
+       "CSS",
+       "JavaScript",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://studiossundown.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/SundownStudio",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/ss.png",
+      video: "",
+    },
 
   
 
