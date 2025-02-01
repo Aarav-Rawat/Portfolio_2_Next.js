@@ -169,6 +169,61 @@ export const DATA = {
     },
 
     {
+      title: "Sundown Studio",
+      href: "https://studiossundown.vercel.app/",
+      dates: "Dec 2024",
+      active: true,
+      description:
+        "I have created a premium UI website using only HTML, CSS, and JavaScript. The design focuses on a modern, sleek aesthetic with responsive layouts and intuitive user experience elements",
+      technologies: [
+       "HTML",
+       "CSS",
+       "JavaScript",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://studiossundown.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/SundownStudio",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/ss.png",
+      video: "",
+    },
+    {
+      title: "Video Player",
+      href: "https://verzatile.onrender.com/",
+      dates: "April 2024",
+      active: true,
+      description:
+        "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
+      technologies: [
+        "React.js",
+        "YouTube API",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://fakevideoplayer.netlify.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/youtube_UI_react",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/videoplayer.png",
+      video: "",
+    },
+
+    {
       title: "DailyCombos - Freelance",
       href: "https://medium-aarav.vercel.app/",
       dates: "Oct 2024",
@@ -198,33 +253,7 @@ export const DATA = {
       video: "",
     },
 
-    {
-      title: "Video Player",
-      href: "https://verzatile.onrender.com/",
-      dates: "April 2024",
-      active: true,
-      description:
-        "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
-      technologies: [
-        "React.js",
-        "YouTube API",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://fakevideoplayer.netlify.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/youtube_UI_react",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/videoplayer.png",
-      video: "",
-    },
+    
 
     {
       title: "Medium",
@@ -293,37 +322,6 @@ export const DATA = {
     //   video: "",
     // },
 
-  
-
-   
-
-    {
-      title: "Sundown Studio",
-      href: "https://studiossundown.vercel.app/",
-      dates: "Dec 2024",
-      active: true,
-      description:
-        "I have created a premium UI website using only HTML, CSS, and JavaScript. The design focuses on a modern, sleek aesthetic with responsive layouts and intuitive user experience elements",
-      technologies: [
-       "HTML",
-       "CSS",
-       "JavaScript",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://studiossundown.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/SundownStudio",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/ss.png",
-      video: "",
-    },
 
   
 
