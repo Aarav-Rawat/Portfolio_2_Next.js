@@ -139,36 +139,6 @@ export const DATA = {
   projects: [
 
     {
-      title: "Wallet",
-      href: "https://github.com/Aarav-Rawat/Paytm",
-      dates: "Dec 2024 - Present",
-      active: true,
-      description:
-        "Developed a digital wallet application enabling users to send and receive money using phone numbers, with an Add to Wallet feature for seamless transactions. Integrated TurboRepo to manage the secondary backend handling bank webhooks efficiently. Implemented secure user authentication with NextAuth and utilized AivenDB for scalable and efficient database management.",
-      technologies: [
-        "Next.js",
-        "Docker",
-        "CI/CD - Github Actions",
-        "PostgreSQL",
-        "TurboRepo",
-        'Express.js',
-        "Prisma",
-        "Typescript",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/Paytm",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/asspay.png",
-      video:
-        "",
-    },
-
-    {
       title: "Sundown Studio",
       href: "https://studiossundown.vercel.app/",
       dates: "Dec 2024",
@@ -193,33 +163,6 @@ export const DATA = {
         },
       ],
       image: "/ss.png",
-      video: "",
-    },
-    {
-      title: "Video Player",
-      href: "https://verzatile.onrender.com/",
-      dates: "April 2024",
-      active: true,
-      description:
-        "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
-      technologies: [
-        "React.js",
-        "YouTube API",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://fakevideoplayer.netlify.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/youtube_UI_react",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/videoplayer.png",
       video: "",
     },
 
@@ -252,6 +195,66 @@ export const DATA = {
       image: "/dailyCombos.png",
       video: "",
     },
+    
+    {
+      title: "Wallet",
+      href: "https://github.com/Aarav-Rawat/Paytm",
+      dates: "Dec 2024 - Present",
+      active: true,
+      description:
+        "Developed a digital wallet application enabling users to send and receive money using phone numbers, with an Add to Wallet feature for seamless transactions. Integrated TurboRepo to manage the secondary backend handling bank webhooks efficiently. Implemented secure user authentication with NextAuth and utilized AivenDB for scalable and efficient database management.",
+      technologies: [
+        "Next.js",
+        "Docker",
+        "CI/CD - Github Actions",
+        "PostgreSQL",
+        "TurboRepo",
+        'Express.js',
+        "Prisma",
+        "Typescript",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/Paytm",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/asspay.png",
+      video:
+        "",
+    },
+
+    
+    {
+      title: "Video Player",
+      href: "https://verzatile.onrender.com/",
+      dates: "April 2024",
+      active: true,
+      description:
+        "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
+      technologies: [
+        "React.js",
+        "YouTube API",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://fakevideoplayer.netlify.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/youtube_UI_react",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/videoplayer.png",
+      video: "",
+    },
+
 
     
 
