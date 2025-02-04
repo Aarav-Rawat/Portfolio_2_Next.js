@@ -258,38 +258,38 @@ export const DATA = {
 
     
 
-    {
-      title: "Medium",
-      href: "https://medium-aarav.vercel.app/",
-      dates: "Nov 2024",
-      active: true,
-      description:
-        "Developed a full-stack blogging platform deployed on a serverless backend powered by Cloudflare Workers, enhancing performance by 50–60%. Utilized AivenDB for efficient database management and seamless scaling. Features include user account creation, blog posting, and optimized SEO with Next.js for improved discoverability.",
-      technologies: [
-        "React.js",
-        "Hono.js",
-        "CloudFlare Workers",
-        "AivenDB",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://medium-aarav.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/Medium",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/medium.png",
-      video: "",
-    },
+    // {
+    //   title: "Medium",
+    //   href: "https://medium-aarav.vercel.app/",
+    //   dates: "Nov 2024",
+    //   active: true,
+    //   description:
+    //     "Developed a full-stack blogging platform deployed on a serverless backend powered by Cloudflare Workers, enhancing performance by 50–60%. Utilized AivenDB for efficient database management and seamless scaling. Features include user account creation, blog posting, and optimized SEO with Next.js for improved discoverability.",
+    //   technologies: [
+    //     "React.js",
+    //     "Hono.js",
+    //     "CloudFlare Workers",
+    //     "AivenDB",
+    //     "Typescript",
+    //     "PostgreSQL",
+    //     "Prisma",
+    //     "TailwindCSS",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://medium-aarav.vercel.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Aarav-Rawat/Medium",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    //   image: "/medium.png",
+    //   video: "",
+    // },
 
    
 
