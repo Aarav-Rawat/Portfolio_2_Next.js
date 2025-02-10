@@ -89,11 +89,23 @@ export const DATA = {
 
   work: [
     {
+      company: "OpticalWala",
+      href: "/#projects",
+      badges: [],
+      location: "Remote",
+      title: "Developer",
+      logoUrl: "/optical.png",
+      start: "2025",
+      end: "Present",
+      description:
+        "",
+    },
+    {
       company: "Freelancer",
       href: "/#projects",
       badges: [],
       location: "Remote",
-      title: "Frontend Engineer",
+      title: "Full Stack Engineer",
       logoUrl: "/free.png",
       start: "2024",
       end: "Present",
