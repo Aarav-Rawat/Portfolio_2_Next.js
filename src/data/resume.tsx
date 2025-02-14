@@ -12,7 +12,7 @@ export const DATA = {
   description:
     "On a journey to becoming a Product Builder. Open to Job/Freelance",
   summary:
-    "I'm a [Developer](/#projects), Who is passionate about [Tech](/#projects). Currently I'm working on [Web Dev](/#skills) & [DevOps](/#skills) with specialization in [Next.js](/#skills) while learning [AI tools](/#skills). Throughout this journey i build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills). I have an excellent understanding of [DSA](/#projects), [OOPS](/#skills), and [Problem-Solving](/).I am continiously adapting to new [Environment](/#skills).",
+    "I'm a [Developer](/#projects), Who is passionate about [Tech](/#skills).I have hands-on experience building full-stack applications using [Next.js, React, Express](/#skills), and databases like [PostgreSQL & MongoDB](/#skills). Additionally, I have worked with [APIs, UI libraries, and AI tools](/#skills).Throughout this journey i build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) Also have a strong foundation in DSA, OOPs, and problem-solving.I am continiously adapting to new [Environment](/#skills).",
 
   avatarUrl: "/me.jpg",
 
