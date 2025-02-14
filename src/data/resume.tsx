@@ -12,7 +12,7 @@ export const DATA = {
   description:
     "On a journey to becoming a Product Builder. Open to Job/Freelance",
   summary:
-    "I'm a [Developer](/#projects), Who is passionate about [Tech](/#skills).I have hands-on experience building full-stack applications using [Next.js, React, Express](/#skills), and databases like [PostgreSQL & MongoDB](/#skills). Additionally, I have worked with [APIs, UI libraries, and AI tools](/#skills).Throughout this journey i build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) Also have a strong foundation in DSA, OOPs, and problem-solving.I am continiously adapting to new [Environment](/#skills).",
+    "I'm a [Developer](/#projects), Who is passionate about [Tech](/#skills) and have hands-on experience building full-stack applications using [Next.js, React, Express](/#skills), and databases like [PostgreSQL & MongoDB](/#skills). Additionally, I have worked with [APIs, UI libraries, and AI tools](/#skills).Throughout this journey i build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) Also have a strong foundation in DSA, OOPs, and problem-solving.I am continiously adapting to new [Environment](/#skills).",
 
   avatarUrl: "/me.jpg",
 
@@ -115,20 +115,20 @@ export const DATA = {
   ],
   education: [
     {
-      school: "100xDevs",
-      href: "",
-      degree: "WebDev & DevOps",
-      logoUrl: "/course.png",
-      start: "2024",
-      end: "Present",
-    },
-    {
       school: "Indira Gandhi University",
       href: "",
       degree: "Computer Science",
       logoUrl: "/college.jpeg",
       start: "",
       end: "",
+    },
+    {
+      school: "100xDevs",
+      href: "",
+      degree: "WebDev & DevOps",
+      logoUrl: "/course.png",
+      start: "2024",
+      end: "Present",
     },
     {
       school: "MySirG",
@@ -138,15 +138,7 @@ export const DATA = {
       start: "2023",
       end: "2024",
     },
-    
-    {
-      school: "School",
-      href: "",
-      degree: "Finance & Business Studies",
-      logoUrl: "/school.jpg",
-      start: "",
-      end: "",
-    }
+  
   ],
   projects: [
     {
