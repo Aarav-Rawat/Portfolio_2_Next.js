@@ -149,63 +149,34 @@ export const DATA = {
     }
   ],
   projects: [
-
     {
-      title: "Sundown Studio",
-      href: "https://studiossundown.vercel.app/",
-      dates: "Dec 2024",
+      title: "Wallet",
+      href: "https://github.com/Aarav-Rawat/Paytm",
+      dates: "Dec 2024 - Present",
       active: true,
       description:
-        "I have created a premium UI website using only HTML, CSS, and JavaScript. The design focuses on a modern, sleek aesthetic with responsive layouts and intuitive user experience elements",
-      technologies: [
-       "HTML",
-       "CSS",
-       "JavaScript",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://studiossundown.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/SundownStudio",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/ss.png",
-      video: "",
-    },
-
-    {
-      title: "DailyCombos - Freelance",
-      href: "https://medium-aarav.vercel.app/",
-      dates: "Oct 2024",
-      active: true,
-      description:
-        "Developed a UI website for a client focused on the trending Tap to Earn Crypto concept. Leveraged Next.js for SEO optimization to attract users and enhance discoverability. The platform allowed users to explore content, understand the mission, and discover solutions to earn more crypto. Development was paused but will be resumed in the future with plans to further enhance its SEO and features.Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
+        "Developed a digital wallet application enabling users to send and receive money using phone numbers, with an Add to Wallet feature for seamless transactions. Integrated TurboRepo to manage the secondary backend handling bank webhooks efficiently. Implemented secure user authentication with NextAuth and utilized AivenDB for scalable and efficient database management.",
       technologies: [
         "Next.js",
+        "Docker",
+        "CI/CD - Github Actions",
+        "PostgreSQL",
+        "TurboRepo",
+        'Express.js',
+        "Prisma",
         "Typescript",
-        "Aceternity UI",
-        "Shadcn UI",
         "TailwindCSS",
       ],
       links: [
         {
-          type: "Website",
-          href: "https://dailycombos.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
           type: "Source",
-          href: "https://github.com/Aarav-Rawat/HamsterCard",
+          href: "https://github.com/Aarav-Rawat/Paytm",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/dailyCombos.png",
-      video: "",
+      image: "/asspay.png",
+      video:
+        "",
     },
 
     {
@@ -239,35 +210,98 @@ export const DATA = {
       image: "/verzatile.png",
       video: "",
     },
+  
     
+
     {
-      title: "Wallet",
-      href: "https://github.com/Aarav-Rawat/Paytm",
-      dates: "Dec 2024 - Present",
+      title: "Sundown Studio",
+      href: "https://studiossundown.vercel.app/",
+      dates: "Dec 2024",
       active: true,
       description:
-        "Developed a digital wallet application enabling users to send and receive money using phone numbers, with an Add to Wallet feature for seamless transactions. Integrated TurboRepo to manage the secondary backend handling bank webhooks efficiently. Implemented secure user authentication with NextAuth and utilized AivenDB for scalable and efficient database management.",
+        "I have created a premium UI website using only HTML, CSS, and JavaScript. The design focuses on a modern, sleek aesthetic with responsive layouts and intuitive user experience elements",
+      technologies: [
+       "HTML",
+       "CSS",
+       "JavaScript",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://studiossundown.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/SundownStudio",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/ss.png",
+      video: "",
+    },
+  
+    {
+      title: "Crypto",
+      href: "https://medium-aarav.vercel.app/",
+      dates: "Oct 2024",
+      active: true,
+      description:
+        "Developed a UI website for a client focused on the trending Tap to Earn Crypto concept. Leveraged Next.js for SEO optimization to attract users and enhance discoverability. The platform allowed users to explore content, understand the mission, and discover solutions to earn more crypto. Development was paused but will be resumed in the future with plans to further enhance its SEO and features.Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
       technologies: [
         "Next.js",
-        "Docker",
-        "CI/CD - Github Actions",
-        "PostgreSQL",
-        "TurboRepo",
-        'Express.js',
-        "Prisma",
         "Typescript",
+        "Aceternity UI",
+        "Shadcn UI",
         "TailwindCSS",
       ],
       links: [
         {
+          type: "Website",
+          href: "https://dailycombos.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
           type: "Source",
-          href: "https://github.com/Aarav-Rawat/Paytm",
+          href: "https://github.com/Aarav-Rawat/HamsterCard",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/asspay.png",
-      video:
-        "",
+      image: "/dailyCombos.png",
+      video: "",
+    },
+
+    {
+      title: "Medium",
+      href: "https://medium-aarav.vercel.app/",
+      dates: "Nov 2024",
+      active: true,
+      description:
+        "Developed a full-stack blogging platform deployed on a serverless backend powered by Cloudflare Workers, enhancing performance by 50–60%. Utilized AivenDB for efficient database management and seamless scaling. Features include user account creation, blog posting, and optimized SEO with Next.js for improved discoverability.",
+      technologies: [
+        "React.js",
+        "Hono.js",
+        "CloudFlare Workers",
+        "AivenDB",
+        "Typescript",
+        "PostgreSQL",
+        "Prisma",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://medium-aarav.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/Medium",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/medium.png",
+      video: "",
     },
 
     
@@ -299,41 +333,6 @@ export const DATA = {
       video: "",
     },
 
-
-    
-
-    // {
-    //   title: "Medium",
-    //   href: "https://medium-aarav.vercel.app/",
-    //   dates: "Nov 2024",
-    //   active: true,
-    //   description:
-    //     "Developed a full-stack blogging platform deployed on a serverless backend powered by Cloudflare Workers, enhancing performance by 50–60%. Utilized AivenDB for efficient database management and seamless scaling. Features include user account creation, blog posting, and optimized SEO with Next.js for improved discoverability.",
-    //   technologies: [
-    //     "React.js",
-    //     "Hono.js",
-    //     "CloudFlare Workers",
-    //     "AivenDB",
-    //     "Typescript",
-    //     "PostgreSQL",
-    //     "Prisma",
-    //     "TailwindCSS",
-    //   ],
-    //   links: [
-    //     {
-    //       type: "Website",
-    //       href: "https://medium-aarav.vercel.app/",
-    //       icon: <Icons.globe className="size-3" />,
-    //     },
-    //     {
-    //       type: "Source",
-    //       href: "https://github.com/Aarav-Rawat/Medium",
-    //       icon: <Icons.github className="size-3" />,
-    //     },
-    //   ],
-    //   image: "/medium.png",
-    //   video: "",
-    // },
 
 
 
