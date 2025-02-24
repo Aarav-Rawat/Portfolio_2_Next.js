@@ -10,7 +10,7 @@ export const DATA = {
   location: "Dill, India",
   locationLink: "https://www.google.com/maps/place/NewDelhi",
   description:
-    "I turn Vision into Product. Open to Job/Freelance",
+    "I build Vision into Product. Open to Job/Freelance",
   summary:
     "I'm a [Software Engineer](/#projects), Who is passionate about [Tech](/#skills) and have hands-on experience building full-stack applications using [Next.js](/#skills) Additionally, I have worked with [DevOps and AI tools](/#skills).Throughout this journey i build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) Also have a strong foundation in DSA, OOPs, and problem-solving and continiously adapting to new [Environment](/#skills).",
 
