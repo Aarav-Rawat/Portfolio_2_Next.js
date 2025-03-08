@@ -12,7 +12,7 @@ export const DATA = {
   description:
     "I build Vision into Product. Open to Job/Freelance",
   summary:
-    "I'm a [Software Engineer](/#projects), Who is passionate about [Tech](/#skills) and have hands-on experience building full-stack applications using [Next.js](/#skills) Additionally, I have worked with [DevOps and AI tools](/#skills).Throughout this journey i build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) Also have a strong foundation in DSA, OOPs, and problem-solving and continiously adapting to new [Environment](/#skills). Currently working on a [SAAS](/#projects).",
+    "I'm a [Devloper](/#projects), Who is passionate about [Tech](/#skills) and have hands-on [experience](/#skills) building full-stack applications using [Next.js](/#skills) Additionally, I have worked with [DevOps and AI tools](/#skills).Throughout this journey i have build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) Also have a strong foundation in [DSA, OOPs, and problem-solving](/#projects) and continiously adapting to new [Environment](/#skills).Right now, I’m working on [AI/ML & Building Something](/#projects) exciting—and I [build in public](/#contact) to share the process.[Connect with me](/#contact) to work.",
 
   avatarUrl: "/pfp2.png",
 
@@ -47,7 +47,7 @@ export const DATA = {
     { href: "/", icon: HomeIcon, label: "Home" },
   ],
   contact: {
-    email: "aaravrawat22505@gmail.com",
+    email: "aaravrawat.work@gmail.com",
     tel: "+91 8076408543",
     social: {
       LinkedIn: {
@@ -89,14 +89,26 @@ export const DATA = {
 
   work: [
     {
+      company: "BrainUI",
+      href: "/#projects",
+      badges: [],
+      location: "Remote",
+      title: "Developer",
+      logoUrl: "/brainui.svg",
+      start: "2025",
+      end: "Present",
+      description:
+        "",
+    },
+    {
       company: "OpticalWala",
       href: "/#projects",
       badges: [],
       location: "Remote",
       title: "Developer",
       logoUrl: "/optical.png",
-      start: "2025",
-      end: "Present",
+      start: "2024",
+      end: "2025",
       description:
         "",
     },
@@ -119,8 +131,8 @@ export const DATA = {
       href: "",
       degree: "Computer Science",
       logoUrl: "/college.jpeg",
-      start: "",
-      end: "",
+      start: "2023",
+      end: "2026",
     },
     {
       school: "100xDevs",
@@ -128,7 +140,7 @@ export const DATA = {
       degree: "WebDev & DevOps",
       logoUrl: "/course.png",
       start: "2024",
-      end: "Present",
+      end: "2025",
     },
     {
       school: "MySirG",
@@ -141,6 +153,35 @@ export const DATA = {
   
   ],
   projects: [
+    {
+      title: "IsSolved",
+      href: "https://github.com/Aarav-Rawat/Paytm",
+      dates: "Feb 2025 - Present",
+      active: true,
+      description:
+        "Working on a problem",
+      technologies: [
+        "Next.js",
+        "Docker",
+        "OpenAI",
+        "Prisma",
+        "PostgreSQL",
+        "Typescript",
+        "UI Library",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Aarav-Rawat/IsSolved",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/issolved.png",
+      video:
+        "",
+    },
+
     {
       title: "Wallet",
       href: "https://github.com/Aarav-Rawat/Paytm",
@@ -202,66 +243,6 @@ export const DATA = {
       image: "/verzatile.png",
       video: "",
     },
-  
-    
-
-    {
-      title: "Sundown Studio",
-      href: "https://studiossundown.vercel.app/",
-      dates: "Dec 2024",
-      active: true,
-      description:
-        "I have created a premium UI website using only HTML, CSS, and JavaScript. The design focuses on a modern, sleek aesthetic with responsive layouts and intuitive user experience elements",
-      technologies: [
-       "HTML",
-       "CSS",
-       "JavaScript",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://studiossundown.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/SundownStudio",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/ss.png",
-      video: "",
-    },
-  
-    {
-      title: "Crypto",
-      href: "https://medium-aarav.vercel.app/",
-      dates: "Oct 2024",
-      active: true,
-      description:
-        "Developed a UI website for a client focused on the trending Tap to Earn Crypto concept. Leveraged Next.js for SEO optimization to attract users and enhance discoverability. The platform allowed users to explore content, understand the mission, and discover solutions to earn more crypto. Development was paused but will be resumed in the future with plans to further enhance its SEO and features.Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "Aceternity UI",
-        "Shadcn UI",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://dailycombos.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/HamsterCard",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/dailyCombos.png",
-      video: "",
-    },
 
     {
       title: "Medium",
@@ -295,35 +276,95 @@ export const DATA = {
       image: "/medium.png",
       video: "",
     },
+  
+    
+
+    // {
+    //   title: "Sundown Studio",
+    //   href: "https://studiossundown.vercel.app/",
+    //   dates: "Dec 2024",
+    //   active: true,
+    //   description:
+    //     "I have created a premium UI website using only HTML, CSS, and JavaScript. The design focuses on a modern, sleek aesthetic with responsive layouts and intuitive user experience elements",
+    //   technologies: [
+    //    "HTML",
+    //    "CSS",
+    //    "JavaScript",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://studiossundown.vercel.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Aarav-Rawat/SundownStudio",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    //   image: "/ss.png",
+    //   video: "",
+    // },
+  
+    // {
+    //   title: "Crypto",
+    //   href: "https://medium-aarav.vercel.app/",
+    //   dates: "Oct 2024",
+    //   active: true,
+    //   description:
+    //     "Developed a UI website for a client focused on the trending Tap to Earn Crypto concept. Leveraged Next.js for SEO optimization to attract users and enhance discoverability. The platform allowed users to explore content, understand the mission, and discover solutions to earn more crypto. Development was paused but will be resumed in the future with plans to further enhance its SEO and features.Developed a UI website for a client, on trending tap to earn crypto. Used Nextjs for seo optimization as user asked for",
+    //   technologies: [
+    //     "Next.js",
+    //     "Typescript",
+    //     "Aceternity UI",
+    //     "Shadcn UI",
+    //     "TailwindCSS",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://dailycombos.vercel.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Aarav-Rawat/HamsterCard",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    //   image: "/dailyCombos.png",
+    //   video: "",
+    // },
 
     
-    {
-      title: "Video Player",
-      href: "https://verzatile.onrender.com/",
-      dates: "April 2024",
-      active: true,
-      description:
-        "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
-      technologies: [
-        "React.js",
-        "YouTube API",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://fakevideoplayer.netlify.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Aarav-Rawat/youtube_UI_react",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/videoplayer.png",
-      video: "",
-    },
+    // {
+    //   title: "Video Player",
+    //   href: "https://verzatile.onrender.com/",
+    //   dates: "April 2024",
+    //   active: true,
+    //   description:
+    //     "Developed a video player that streams real-time videos, displaying likes, subscribers, and comments dynamically. Integrated YouTube API for fetching video data and designed a user-friendly frontend UI. The platform features a recommended section for personalized video suggestions, along with categorized sections such as Home, Gaming, and Sports for seamless navigation and an enhanced user experience.",
+    //   technologies: [
+    //     "React.js",
+    //     "YouTube API",
+    //     "TailwindCSS",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://fakevideoplayer.netlify.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Aarav-Rawat/youtube_UI_react",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    //   image: "/videoplayer.png",
+    //   video: "",
+    // },
 
 
 
