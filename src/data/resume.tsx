@@ -12,7 +12,7 @@ export const DATA = {
   description:
     "I build Vision into Product. Open to Job/Freelance",
   summary:
-    "I'm a [Devloper](/#projects), Who is passionate about [Tech](/#skills) and have hands-on [experience](/#skills) building full-stack applications using [MERN & Next.js](/#skills) Additionally, I have worked with [DevOps and AI tools](/#skills).Throughout this journey i have build [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) Also have a strong foundation in [DSA, OOPs, and problem-solving](/#projects) and continiously adapting to new [Environment](/#skills).Right now, I’m working on [AI/ML & Building Something](/#projects) exciting—and I [build in public](/#contact) to share the process.[Connect with me](/#contact) to work.",
+    "I'm a [Web-Dev](/#projects) and have hands-on [Experience](/#skills) building full-stack applications using [MERN & Next.js](/#skills).Also, have a strong foundation in [DSA, OOPs, and problem-solving](/#projects). Throughout this journey i have shipped [Client-Projects](/#projects) gaining hands-on [Experience](/#skills) with diverse [Technologies](/#skills) and I [build in public](/#contact) to share the process.[Connect with me](/#contact) to work.",
 
   avatarUrl: "/pfp2.png",
 
@@ -23,17 +23,14 @@ export const DATA = {
     "NextJS",
     "ExpressJS",
     "NodeJS",
-    "HonoJS",
     "TailwindCSS",
     "MongoDB",
     "PostgreSQL",
-    "Cloudflare Workers",
     "Docker",
     "Git/GitHub",
     "Postman",
     "Prisma",
     "Zod",
-    "TurboRepo",
     "NextAuth",
     "DSA",
     "OOPs",
@@ -73,7 +70,7 @@ export const DATA = {
       },
       Email: {
         name: "Send Email",
-        url: "#mailto:aaravrawat22505@gmail.com",
+        url: "#mailto:aaravrawat.work@gmail.com",
         icon: Icons.email,
 
         navbar: true,
